@@ -5,6 +5,7 @@ Personal collection of Codex Skills that I find useful and worth keeping.
 ## Skills
 
 - `seedance-director`: Seedance 2.0 video prompt director. Converts plain-text scene descriptions and optional reference images into strict bilingual EN+ZH JSON prompts optimized for Seedance 2.0.
+- `prompt-expert`: Chinese image prompt expert. Writes, improves, and reverse-engineers reusable AI image prompts from goals, subject references, or style references.
 
 ## Install
 

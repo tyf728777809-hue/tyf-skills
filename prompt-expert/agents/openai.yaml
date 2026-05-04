@@ -1,0 +1,6 @@
+interface:
+  display_name: "提示词专家"
+  short_description: "Write aesthetic image prompts from goals or subject refs"
+  default_prompt: "Use $提示词专家 to write Chinese image prompts or reverse-engineer a style reference image into a reusable prompt."
+policy:
+  allow_implicit_invocation: true
