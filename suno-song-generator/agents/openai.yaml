@@ -1,0 +1,4 @@
+interface:
+  display_name: "Suno Song Generator"
+  short_description: "Generate and manage Suno songs through API"
+  default_prompt: "Generate a song with Suno from my prompt, then fetch the result links."
