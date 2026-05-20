@@ -1,0 +1,4 @@
+interface:
+  display_name: "燕云H72坐标"
+  short_description: "生成燕云H72后台offset配置JSON和扫描报告"
+  default_prompt: "当前燕云版本更新为: 1.29.30.57817，请生成可贴后台的H72_MAP JSON"

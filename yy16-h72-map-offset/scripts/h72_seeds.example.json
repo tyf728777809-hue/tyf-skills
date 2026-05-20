@@ -1,0 +1,36 @@
+{
+  "packages": {
+    "Win64r": {
+      "package": "Win64r",
+      "versionStr": "202605131245_r57817",
+      "curVersion": "1.29.27.57817",
+      "exeSha256": "",
+      "offsets": {
+        "x": "0x70DB14C",
+        "y": "0x70DB144",
+        "z": "0x70DB148",
+        "versionStr": "202605131245_r57817"
+      },
+      "source": "manual_confirmed",
+      "confidence": "high",
+      "signatures": [],
+      "samples": []
+    },
+    "Win64rh": {
+      "package": "Win64rh",
+      "versionStr": "202605182004_r58091",
+      "curVersion": "1.29.30.58091",
+      "exeSha256": "",
+      "offsets": {
+        "x": "0x70DB14C",
+        "y": "0x70DB144",
+        "z": "0x70DB148",
+        "versionStr": "202605182004_r58091"
+      },
+      "source": "runtime_readonly",
+      "confidence": "high",
+      "signatures": [],
+      "samples": []
+    }
+  }
+}
